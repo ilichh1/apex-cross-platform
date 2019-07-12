@@ -1,2 +1,2 @@
 # apex-cross-platform
-TODO: Made de actual game
+TODO: Made the actual game
