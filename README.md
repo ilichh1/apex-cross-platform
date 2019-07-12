@@ -1,2 +1,2 @@
 # apex-cross-platform
-A cross-platform version of the famous video game APEX
+TODO: Made de actual game
